@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\phonegap\socialshareandroid2\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="480e147d90b63d7e496c295240f2a5502319090e">
+        <dex dex="F:\phonegap\socialshareandroid2\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2969aa10daff835fbbc3102d074a8abc7d7c3e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\phonegap\socialshareandroid2\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff08eadea5f457b5a214bd1d84fb69918faabf72">
+        <dex dex="F:\phonegap\socialshareandroid2\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_41192deaed2e44d5e7848ba03e0c46006984d7e3\classes.dex" />
+    </item>
+
+</items>
