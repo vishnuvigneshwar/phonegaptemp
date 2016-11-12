@@ -1,7 +1,0 @@
-#Fri Oct 28 03:35:37 IST 2016
-base.0=F\:\\phonegap\\socialshareandroid2\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2969aa10daff835fbbc3102d074a8abc7d7c3e01
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=F\:\\phonegap\\socialshareandroid2\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_41192deaed2e44d5e7848ba03e0c46006984d7e3\\classes.dex
-base.1=F\:\\phonegap\\socialshareandroid2\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_41192deaed2e44d5e7848ba03e0c46006984d7e3
-file.0=F\:\\phonegap\\socialshareandroid2\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2969aa10daff835fbbc3102d074a8abc7d7c3e01\\classes.dex
