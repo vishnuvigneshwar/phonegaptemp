@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\phonegaptemp\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14e1c49ea2a60a5ed0f97046ca8702de75a9b72f">
+        <dex dex="C:\vishnu\Android\workspace\phonegaptemp\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7194c37c24cf04dd3126430f82e22d26ea1bd277\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\vishnu\Android\workspace\phonegaptemp\build\intermediates\exploded-aar\phonegaptemp\CordovaLib\unspecified\release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5d146690b2c01f0a547bd40ffd94e777ab0bab0">
+        <dex dex="C:\vishnu\Android\workspace\phonegaptemp\build\intermediates\pre-dexed\release\CordovaLib-unspecified-release_0fc18effe4cef61e1e7c974ad95264cd6f97481c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\phonegaptemp\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="056ca10ceb397d199b581613ced11e2ae2eb2da4">
+        <dex dex="C:\vishnu\Android\workspace\phonegaptemp\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ebf7dd63fd12c5e5b14ec28c912a218f6adbb6a2\classes.dex" />
+    </item>
+
+</items>

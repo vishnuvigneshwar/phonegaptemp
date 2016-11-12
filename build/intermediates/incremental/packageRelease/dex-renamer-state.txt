@@ -1,0 +1,4 @@
+#Sat Nov 12 21:54:18 IST 2016
+base.0=C\:\\vishnu\\Android\\workspace\\phonegaptemp\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\vishnu\\Android\\workspace\\phonegaptemp\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

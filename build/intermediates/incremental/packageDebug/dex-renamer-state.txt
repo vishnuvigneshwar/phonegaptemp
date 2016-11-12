@@ -1,0 +1,7 @@
+#Sat Nov 12 21:46:39 IST 2016
+base.0=C\:\\vishnu\\Android\\workspace\\phonegaptemp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ebf7dd63fd12c5e5b14ec28c912a218f6adbb6a2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\vishnu\\Android\\workspace\\phonegaptemp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7194c37c24cf04dd3126430f82e22d26ea1bd277\\classes.dex
+base.1=C\:\\vishnu\\Android\\workspace\\phonegaptemp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7194c37c24cf04dd3126430f82e22d26ea1bd277
+file.0=C\:\\vishnu\\Android\\workspace\\phonegaptemp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ebf7dd63fd12c5e5b14ec28c912a218f6adbb6a2\\classes.dex
